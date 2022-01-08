@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="A - 10yen Stamp" type="name.admitriev.jhelper.configuration.TaskConfigurationType" className="A10yenStamp" cppPath="tasks/A10yenStamp.cpp" inputType="STANDARD" outputType="STANDARD" testType="SINGLE">
+    <tests>
+      <test input="80 94&#10;" output="2&#10;" active="true" />
+      <test input="1000 63&#10;" output="0&#10;" active="true" />
+      <test input="270 750&#10;" output="48&#10;" active="true" />
+    </tests>
+    <method v="2" />
+  </configuration>
+</component>
